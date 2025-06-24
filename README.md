@@ -1,4 +1,4 @@
-# 💼 Job Astra – Smart, Ethical Job Application Assistant
+![ChatGPT Image Jun 24, 2025, 11_48_20 AM](https://github.com/user-attachments/assets/7ab2089a-3381-46ed-a92a-074e48bea0db)# 💼 Job Astra – Smart, Ethical Job Application Assistant
 
 **Job Astra** is an AI-powered tool that rewrites your resume for each job, logs the applications, and sends you daily summaries — built to help job seekers apply confidently, especially immigrant students navigating OPT/CPT job hunts.
 
@@ -15,9 +15,9 @@
 
 ## 🧠 How It Works (Visual Flow)
 
-![Job Astra Architecture](https://i.imgur.com/Z84Fwno.png)
+![Job Astra Architecture](./A_flowchart_in_the_image_illustrates_the_workflow_.png)
 
----
+
 
 ## 🔧 Tech Stack
 
